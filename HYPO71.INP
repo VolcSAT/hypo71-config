@@ -1,0 +1,31 @@
+HEAD
+RESET TEST(01)=.1
+RESET TEST(02)=500.
+RESET TEST(03)=0.2
+RESET TEST(04)=.01
+RESET TEST(05)=5.
+RESET TEST(06)=4.
+RESET TEST(10)=2.
+RESET TEST(11)=99.
+RESET TEST(12)=.5
+RESET TEST(13)=2.
+RESET TEST(15)=-2.
+RESET TEST(20)=1.
+ 
+  GAAW1445.02N09135.10W1949  0.00                     
+  OAKC1442.65N09134.21W1430  0.00                     
+  WTBF1443.68N09137.54W 885  0.00                     
+ 
+   3.50   0.00
+   5.00   1.00
+   6.00   6.00
+   6.80  13.00
+   8.00  35.00
+   8.26 200.00
+   8.50 300.00
+ 
+ 001. 300.1500. 1.78    2    0         1              0  1                      
+GAAWEP 0 2203040857 0.12        0.99ES 0                            
+OAKCEP 0 2203040857 0.73                                            
+WTBFEP 0 2203040857 1.20        2.56ES 0                            
+                 10     
